@@ -1,0 +1,156 @@
+/*One piece project
+name:audrey
+Date:8/3/2020*/
+
+  h1 {
+   text-align:center;
+   font-size: 30px;
+   text-shadow: 5px 5px 5px purple;
+    
+   
+ }
+ 
+ /* style for img*/
+ 
+ #img {
+  
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+  float:left;
+  padding:20px;
+  
+}
+
+
+
+ 
+ /* style of div */
+ article {
+  width:30%;
+  padding-left: 15px;
+  margin-left:auto;
+  margin-right:auto;
+  float: right;
+}
+ 
+ 
+ 
+ /* style for the p*/
+  p{
+  color:black;
+  text-align: center;
+  border-style:solid;
+  border-width:medium;
+  border: 2px solid pink;
+  border-radius: 12px;
+  background-color:gold;
+  
+  }
+
+  
+ /* style for the body */
+ 
+  body {
+    padding: 25px;
+  background-color:gold;
+  background-image:linear-gradient(90deg,gold,brown);
+  background-repeat:cover;
+  background-size: auto;
+  font-family: 'Cinzel', serif;
+  }
+
+
+
+/* style of the header*/
+.header {
+background-color: red;
+  padding: 30px;
+  text-align: center;
+  font-size: 40px;
+  color:black;
+   }
+  
+
+/* style for nav*/
+
+.topnav a {
+  float: left;
+  color:red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  text-align:center;
+  
+}
+
+.topnav a:hover {
+  background-color:lightpink;
+  color: brown;
+  text-align:center;
+  
+}
+
+.topnav {
+  overflow: hidden;
+  background-color:gold;
+  border-radius:12px;
+  text-align:center;
+}
+
+/* style for header*/
+
+div.anime {
+  font-size:50px;
+  text-align:center;
+  text-shadow: 2px 2px gold;
+}
+
+/* background color for  p*/
+
+#L{
+  
+  background-color:rgb(222, 57, 20);
+}
+
+
+#z {
+  background-color:green;
+}
+
+#n {
+  background-color:orange;
+}
+
+#s {
+  background-color:blue;
+}
+
+#c {
+  background-color:brown;
+}
+
+#r {
+  background-color:violet;
+}
+
+#F {
+  background-color:lightGray;
+}
+
+#b {
+  background-color: rgb(125, 117, 116);
+}
+
+#J {
+  background-color:aqua;
+}
+
+/*style for footer*/
+ footer{
+   background-color:gold;
+   padding:20px;
+   text-align:center;
+   color:brown;
+ }
